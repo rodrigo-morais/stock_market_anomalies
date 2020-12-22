@@ -1,6 +1,9 @@
 ---
 title: "Stock Market Anomalies Detection"
-output: statsr:::statswithr_lab
+#output: statsr:::statswithr_lab
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ## Description
